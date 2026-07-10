@@ -58,11 +58,8 @@ Security-minded engineer focused on **automation**, **secure development**, and 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m4ary&theme=github_dark" alt="most commit language" height="180" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m4ary&theme=github_dark" alt="stats" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m4ary&theme=github_dark&utcOffset=3" alt="productive time" height="180" />
 
 <img src="https://streak-stats.demolab.com/?user=m4ary&theme=tokyonight&hide_border=true" alt="streak stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m4ary&theme=github-compact&hide_border=true&area=true" alt="activity graph" width="100%" />
 
 </div>
 
